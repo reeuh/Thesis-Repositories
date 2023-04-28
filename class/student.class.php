@@ -135,7 +135,7 @@ class Student{
 
     function add_group($group_number, $curriculum, $adviser_id){
         
-        $conn = mysqli_connect("localhost","root","","tams");
+        $conn = mysqli_connect("localhost","u954686968_thesisarchives","CCSthesis23","u954686968_tams");
         $sql = "INSERT INTO groups (group_number, curriculum, adviser_id) VALUES (?, ?, ?)";
         $stmt = mysqli_stmt_init($conn);
         if (!mysqli_stmt_prepare($stmt, $sql)) {
