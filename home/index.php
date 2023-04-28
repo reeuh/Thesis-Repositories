@@ -212,7 +212,7 @@
               <div class="desc">
                 <h5>Grades</h5>
                 <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Lorem  dolor, sit amet consectetur adipisicing elit.
                   Accusamus nam quo velit asperiores numquam adipisci sunt
                 </p>
               </div>
